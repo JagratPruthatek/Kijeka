@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "title": "Chemical Pumps and Accessories",
+        "rating": "40",
+        "description": "manufacturer and supplier of high quality material handling products and industrial machiner",
+        "img": "/images/Blackpump.png",
+        "stars": "1",
+        "img2": "/images/Lifter.png",
+        "description2": "lorem    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem error iste excepturi ratione fugiat. Atque, aperiam, illum perspiciatis amet "
+    },
+    {
+        "id": 2,
+        "title": "Crain and Lifting Accessories",
+        "rating": "80",
+        "description": "manufacturer and supplier of high quality material handling products and industrial machiner",
+        "img": "/images/Crain.png",
+        "stars": "5",
+        "img2": "/images/Blackpump.png",
+        "description2": "l excepturi ratione fugiat. Atque, aperiam, illum perspiciatis amet "
+    },
+    {
+        "id": 3,
+        "title": "Arial Work Platforms",
+        "rating": "40",
+        "description": "manufacturer and supplier of high quality material handling products and industrial machiner",
+        "img": "/images/Roller.png",
+        "stars": "4",
+        "img2": "/images/Blackpump.png",
+        "description2": "lorem    Lorem ipsummet consectetur adipisicing elit. Quidem error iste excepturi ratione fugiat. Atque, aperiam, illum perspiciatis amet "
+    },
+    {
+        "id": 4,
+        "title": "Arial Work Platforms",
+        "rating": "40",
+        "description": "manufacturer and supplier of high quality material handling products and industrial machiner",
+        "img": "/images/Lifter.png",
+        "stars": "2",
+        "img2": "/images/Blackpump.png",
+        "description2": "lorem    Lorem ipsum dolor sit amet conseicing elit. Quidem error iste excepturi ratione fugiat. Atque, aperiam, illum perspiciatis amet "
+    },
+    {
+        "id": 5,
+        "title": "Arial Work Platforms",
+        "rating": "40",
+        "description": "manufacturer and supplier of high quality material handling products and industrial machiner",
+        "img": "/images/Blackpump.png",
+        "stars": "0",
+        "img2": "/images/Blackpump.png",
+        "description2": "lorem    Lorem ipsum dolor sit amet conse elit. Quidem error iste excepturi ratione fugiat. Atque, aperiam, illum perspiciatis amet "
+    },
+    {
+        "id": 6,
+        "title": "Arial Work Platforms",
+        "rating": "40",
+        "description": "manufacturer and supplier of high quality material handling products and industrial machiner",
+        "img": "/images/Lifter.png",
+        "stars": "2",
+        "img2": "/images/Blackpump.png",
+        "description2": "lorem    Lorem ipsum dolor sit amet consectetur adipisicing elit. Quidem erne fugiat. Atque, aperiam, illum perspiciatis amet "
+    },
+    {
+        "id": 7,
+        "title": "Arial Work Platforms",
+        "rating": "40",
+        "description": "manufacturer and supplier of high quality material handling products and industrial machiner",
+        "img": "/images/Blackpump.png",
+        "stars": "5",
+        "img2": "/images/Lifter.png",
+        "description2": "lorem    Lorem ipsum dolor sit amet consectetur e excepturi ratione fugiat. Atque, aperiam, illum perspiciatis amet "
+    },
+    {
+        "id": 8,
+        "title": "Drum Handling Equipments",
+        "rating": "40",
+        "description": "manufacturer and supplier of high quality material handling products and industrial machiner",
+        "img": "/images/Berral.png",
+        "stars": "3",
+        "img2": "/images/berral2.png",
+        "description2": "lorem    Lorem ipsum dolor sit amet consectetur adipisicing  excepturi ratione fugiat. Atque, aperiam, illum perspiciatis amet "
+    }
+]
